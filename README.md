@@ -1,2 +1,3 @@
-# homebrew-taps
-My personel homebrew taps
+# homebrew-tap
+
+My homebrew tap
